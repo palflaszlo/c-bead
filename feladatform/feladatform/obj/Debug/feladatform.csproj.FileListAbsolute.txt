@@ -1,0 +1,10 @@
+C:\Users\Diak\Desktop\feladatform\feladatform\bin\Debug\feladatform.exe.config
+C:\Users\Diak\Desktop\feladatform\feladatform\bin\Debug\feladatform.exe
+C:\Users\Diak\Desktop\feladatform\feladatform\bin\Debug\feladatform.pdb
+C:\Users\Diak\Desktop\feladatform\feladatform\obj\Debug\feladatform.csprojAssemblyReference.cache
+C:\Users\Diak\Desktop\feladatform\feladatform\obj\Debug\feladatform.Form1.resources
+C:\Users\Diak\Desktop\feladatform\feladatform\obj\Debug\feladatform.Properties.Resources.resources
+C:\Users\Diak\Desktop\feladatform\feladatform\obj\Debug\feladatform.csproj.GenerateResource.cache
+C:\Users\Diak\Desktop\feladatform\feladatform\obj\Debug\feladatform.csproj.CoreCompileInputs.cache
+C:\Users\Diak\Desktop\feladatform\feladatform\obj\Debug\feladatform.exe
+C:\Users\Diak\Desktop\feladatform\feladatform\obj\Debug\feladatform.pdb
